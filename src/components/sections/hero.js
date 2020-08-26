@@ -29,7 +29,7 @@ const StyledContentWrapper = styled(ContentWrapper)`
     justify-content: center;
     margin-bottom: 6rem;
     @media (min-width: ${({ theme }) => theme.breakpoints.sm}) {
-      margin-bottom: 4rem;
+      margin-bottom: 14rem;
     }
     .greetings {
       display: flex;
