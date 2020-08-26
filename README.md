@@ -18,7 +18,7 @@ A clean, one-page portfolio using Gatsby.js, MDX, and React.
 
 # Description
 
-The purpose of this HW assignment was to design a Portfolio that utilizes HTML, CSS, Bootstrap and JavaScript to create a responsive and vibrant website. This webite will be updated as I progress throughout the program to fully display my skills and coding techniques.
+This website uses Gatsby.js a static website generator to build a responsive and fast portfolio.
 
 ## Install
 
