@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/16b36180-0897-40c5-925c-fefa0232555c/deploy-status)](https://app.netlify.com/sites/gatsby-starter-portfolio-minimal/deploys)![GitHub language count](https://img.shields.io/github/languages/count/chaseyb/react-portfolio)
 ![GitHub top language](https://img.shields.io/github/languages/top/chaseyb/react-portfolio)
 
+<img src="/images/ScreenShot-1.png">
+
 A clean, one-page portfolio using Gatsby.js, MDX, and React.
 
 👉 [Website Link](https://chasejohnson.dev/ "Website Link")
