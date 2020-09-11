@@ -31,11 +31,16 @@ module.exports = {
       {
         name: "Projects",
         url: "/#projects"
+      },
+      {
+        name: "Contact",
+        url: "/#contact"
       }
     ],
     button: {
-      name: "Contact",
-      url: "/#contact"
+      name: "Resume",
+      url:
+        "https://drive.google.com/file/d/16GSZssHnDoArIWjzSfPurYmp0nRzyjcH/view"
     }
   },
 
